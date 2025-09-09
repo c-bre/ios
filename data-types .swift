@@ -18,10 +18,11 @@ print("I am currently at my", myLocation)
 
 // Example of a Boolean constant
 let isRaining = true
-isRaining = false
+//isRaining = false
 
-//Eample of a Boolean constant- correct version
+//Example of a Boolean constant- correct version
 var isRaining = true
 print(isRaining)
 isRaining = false
+
 print(isRaining)
